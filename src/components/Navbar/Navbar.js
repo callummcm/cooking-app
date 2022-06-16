@@ -7,7 +7,7 @@ const Navbar = () => {
     <>
       <div className='navbar'>
         <nav>
-          <NavLink to='/' className='navbar-title'><h1>Cooking Ninja</h1></NavLink>
+          <NavLink to='/' className='navbar-title'><h1>Recipe Repo</h1></NavLink>
           <Searchbar />
           <NavLink to='/create'>Create Recipe</NavLink>
         </nav>
